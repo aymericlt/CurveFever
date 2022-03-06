@@ -13,5 +13,5 @@ Vidéo présentation du jeu :
 
 ## Comment lancer le jeu ?
 + Une fois le dossier téléchargé il vous faudra g++ d'installé pour compiler le projet
-+ De là on utilise le Makefile avec la commande ```make ``` à la base du projet
++ De là on utilise le Makefile avec la commande ```make``` à la base du projet
 + Puis on exécute le programme avec ```.\bin\curvefever.exe ```
