@@ -11,7 +11,7 @@ Vidéo présentation du jeu :
 + Chacun doit éviter les bords du terrain et les traces des serpents pour rester en vie et marquer un point
 + Le premier joueur à 5 points remporte la partie
 
-## Comment lancer le jeu ?
+## Comment lancer le jeu ? (Windows et Linux)
 + Une fois le dossier téléchargé il vous faudra g++ d'installé pour compiler le projet
 + De là on utilise le Makefile avec la commande ```make``` à la base du projet
 + Puis on exécute le programme avec ```.\bin\curvefever.exe ```
